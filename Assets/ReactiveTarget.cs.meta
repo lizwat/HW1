@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae07628d3cadf441c98594bcc256becd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tombPrefab: {fileID: 1822213079043498, guid: e5c3e9a7976ba0748b615b22761dc9d6,
+      type: 3}
+  - enemyPrefab: {fileID: 100000, guid: ad8d6a043ea202340b30ec4d6a6a507f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
